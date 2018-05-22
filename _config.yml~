@@ -83,7 +83,7 @@ author:
   bio              : "Medical Physicist"
   location         : "Colorado"
   employer         : "University of Colorado Hospital"
-  googlescholar    : "https://scholar.google.com/citations?user=sMkmmpAAAAAJ&hl=en"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rafemcbeth"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
