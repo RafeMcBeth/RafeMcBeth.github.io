@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rafe McBeth, Ph.D."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Medical Physicist
+  location         : "Colorado"
+  employer         : "University of Colorado Hospital"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
